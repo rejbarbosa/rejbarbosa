@@ -1,16 +1,34 @@
-## Hi there 👋
+## Robert Barbosa
 
-<!--
-**rejbarbosa/rejbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Dados`**
 
-Here are some ideas to get you started:
+Me chamo Robert Barbosa, sou natural de Minas Gerais. Concluí a educação superior em Marketing pela Estácio de Sá, sou pós graduado em Business intelligence, big data e analytics - Ciência de Dados e tenho uma segunda pós em Exportação no Agronegócio. Atualmente, estou cursando Engenharia de Software. Você pode consultar mais sobre minhas habilidades no meu portfólio de projetos [Pórtfolio Robert Barbosa](https://sites.google.com/view/portflio-robert-barbosa/capa).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+  align="left"
+  alt="SQL Server"
+  title="SQL Server"
+  width="30px"
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+/>     
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
