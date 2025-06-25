@@ -1,6 +1,6 @@
 ## Robert Barbosa
 
-**`Analista de Dados`**
+**`Analytics Engineer`**
 
 Me chamo Robert Barbosa, sou natural de Minas Gerais. 
 Concluí a educação superior em Marketing pela Estácio de Sá, sou pós graduado em Business intelligence, big data e analytics - Ciência de Dados e tenho uma segunda pós em Exportação no Agronegócio, ambas pela Anhanguera. Atualmente, estou cursando Engenharia de Software visando me especializar ainda mais na aréa de Tecnológia da informação.
